@@ -5,8 +5,7 @@
 python eval_corruptions.py 
 ```
 # Computing Central Kernel Alignment score for layers
-* Ensure that you have **at least 20 GB** of GPU RAM to run the scripts
-* It is computed over all samples in the test set `dataset/test`
+* Ensure that you have at least 20 GB of GPU RAM to run the scripts
 * Modify the path to save the heatmap visualization appropriately
 ```
 python cka_convnext_mnasnet.py
