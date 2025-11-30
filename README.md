@@ -102,7 +102,13 @@ python eval_scripts/cka_convnext_squeezenet.py
 
 ---
 
-## 🖼️ Visualizations
+## 🖼️ Results
+
+### Top-K Clean Accuracy
+<img src="Images/Top_K/top_k_clean_accuracy.png" width="500" height="500">
+
+### Top-K Accuracy after adding Gaussian Noise
+<img src="Images/Top_K/top_k_with_noise_kd.png" width="500" height="500">
 
 ### Pareto-Optimal by avg mCE
 <img src="Images/Pareto_Optimal/pareto_mce.png" width="500" height="500">
