@@ -107,9 +107,6 @@ python eval_scripts/cka_convnext_squeezenet.py
 ### Pareto-Optimal by avg mCE
 <img src="Images/Pareto_Optimal/pareto_mce.png" width="500" height="500">
 
-### Mean Top-1 across severities
-<img src="Images/mCE/mce_top2_highlight_heatmap.png" width="500" height="500">
-
 ### average mCE across top-k
 <img src="Images/mCE/avg_mce_std.jpg" width="600" height="400">
 
