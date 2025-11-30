@@ -62,7 +62,20 @@ Download pretrained weights:
 
 
 ---
+## ⚙️ Setting Up the Conda Environment
 
+Follow the steps below to create and activate the Conda environment using the provided `environment.yml` file:
+
+1. **Ensure Conda is installed**  
+   Install [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install) or [Anaconda](https://www.anaconda.com/download) if you don’t already have it.
+
+2. **Create the environment from the YAML file**  
+   ```bash
+   conda env create -f environment.yml
+3. **Activate the environment**
+   ```
+   conda activate thcr
+---
 ## 🚀 Training
 
 Example:
